@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dfc5da8-4736-4c58-b9cd-be0f1315b019" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2LY8qIwuyNVJ1res655G5gbE3U7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dfc5da8-4736-4c58-b9cd-be0f1315b019" name="Default Changelist" comment="" />
+      <created>1676036844800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676036844800</updated>
+      <workItem from="1676036847933" duration="47000" />
+      <workItem from="1676036911171" duration="2013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="221" key="FileChooserDialogImpl" timestamp="1676036878719">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="501" y="221" key="FileChooserDialogImpl/0.0.1440.929@0.0.1440.929" timestamp="1676036878719" />
+    <state x="490" y="279" key="NewPhpClassDialog" timestamp="1676037484217">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="490" y="279" key="NewPhpClassDialog/0.0.1440.929@0.0.1440.929" timestamp="1676037484217" />
+    <state x="222" y="108" key="SettingsEditor" timestamp="1676037165011">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="222" y="108" key="SettingsEditor/0.0.1440.929@0.0.1440.929" timestamp="1676037165011" />
+    <state x="405" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1676036911405">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="405" y="290" key="com.intellij.ide.util.TipDialog/0.0.1440.929@0.0.1440.929" timestamp="1676036911405" />
+    <state x="377" y="213" key="run.anything.popup" timestamp="1676037292716">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="377" y="213" key="run.anything.popup/0.0.1440.929@0.0.1440.929" timestamp="1676037292716" />
+  </component>
+</project>

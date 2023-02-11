@@ -1,0 +1,17 @@
+{
+    "name": "zhaohui1909/weather",
+    "autoload": {
+        "psr-4": {
+            "Zhaohui1909\\Weather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "YYZ",
+            "email": "yyztop@qq.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
