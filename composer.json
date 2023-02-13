@@ -12,6 +12,7 @@
         }
     ],
     "require": {
+        "zhaohui1909/weather":"dev-main",
         "guzzlehttp/guzzle": "^7.5"
     },
     "license": "MIT"
